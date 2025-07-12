@@ -7,6 +7,20 @@ Ainda estou desenvolvendo o design e em breve começarei o desenvolvimento do si
 
 ---
 
+
+
+## Atualização do designer 12/07/2025
+
+Já defini alguns elementos cruciais para o andamento do design, como a paleta de cores, as três fontes principais e o grid base do projeto. Iniciei com um layout low-fidelity (lo-fi) para estruturar a ideia inicial sem muitos detalhes, mas ainda estou em busca de referências e inspirações para evoluir o visual da interface.
+
+![Layout Lo-fi](./image/designer-01.png)
+
+
+## 💡 Objetivo
+Criar um espaço para troca de conhecimento e boas práticas no universo da tecnologia, com textos, dicas e tutoriais.
+
+---
+
 ## 🚀 Status do Projeto
 ## 🚀 Status do Projeto
 - [x] Fase de design
@@ -15,12 +29,9 @@ Ainda estou desenvolvendo o design e em breve começarei o desenvolvimento do si
 - [ ] Preparação para publicação
 - [ ] Publicação oficial
 - [ ] Manutenção e atualizações contínuas
----
-
-## 💡 Objetivo
-Criar um espaço para troca de conhecimento e boas práticas no universo da tecnologia, com textos, dicas e tutoriais.
 
 ---
+
 
 ## 🔧 Tecnologias utilizadas (planejadas)
 - JavaScript
